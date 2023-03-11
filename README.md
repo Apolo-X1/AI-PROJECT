@@ -1,2 +1,2 @@
 # AI-PROJECT-
-Here we gonna create a AI
+Here we gonna create an AI
