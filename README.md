@@ -1,2 +1,2 @@
 # AI-PROJECT-
-Here we gonna create an AI
+AI with python
